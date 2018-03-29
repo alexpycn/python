@@ -1,3 +1,3 @@
 # nude
 python3.6 nude example
-鉴黄
+图片鉴黄
